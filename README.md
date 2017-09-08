@@ -18,7 +18,8 @@ Simple local mirror site of open source
 
 ## Acknowledgements
 
-- [Alibaba](http://mirrors.aliyun.com/)
-- [USTC](https://mirrors.ustc.edu.cn/)
-- [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/)
-- [NetEase](http://mirrors.163.com/)
+- China mirrors
+  - [Alibaba](http://mirrors.aliyun.com/)
+  - [USTC](https://mirrors.ustc.edu.cn/)
+  - [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/)
+  - [NetEase](http://mirrors.163.com/)
