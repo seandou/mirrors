@@ -3,6 +3,7 @@ services:
   mirrors:
     container_name: mirrors
     image: seandou/nginx-pubfiles:latest
+    restart: always
     ports:
       - "172.17.0.1:1111:80"
     volumes:
