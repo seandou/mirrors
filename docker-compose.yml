@@ -1,0 +1,9 @@
+version: '3'
+services:
+  mirrors:
+    container_name: mirrors
+    image: seandou/nginx-pubfiles:latest
+    ports:
+      - "172.17.0.1:11111:80"
+    volumes:
+      - /data/mirrors:/data/pubfiles
