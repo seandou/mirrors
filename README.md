@@ -20,6 +20,7 @@ Simple local mirror site of open source
 
 - China mirrors
   - [Alibaba](http://mirrors.aliyun.com/)
+  - [Taobao](https://npm.taobao.org/mirrors)
   - [USTC](https://mirrors.ustc.edu.cn/)
   - [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/)
   - [NetEase](http://mirrors.163.com/)
