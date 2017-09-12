@@ -2,6 +2,7 @@ version: '3'
 services:
   mirrors:
     container_name: mirrors
+    network_mode: bridge
     image: seandou/nginx-pubfiles:latest
     restart: always
     ports:
